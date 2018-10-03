@@ -1,0 +1,3 @@
+[submodule "LightricksSource"]
+	path = LightricksSource
+	url = https://github.com/Lightricks/datahack.git
